@@ -17,11 +17,11 @@
 
 
 ## Installation
-To install the project, simply clone the repository to your local machine:
-'''bash
-Copy code
+To install the project, Fork This project or simply clone the repository to your local machine:
+```
 git clone https://github.com/your-username/biolinks.git
-'''
+```
+
 
 ## Usage
 <p>To use the project, open the index.html file in your web browser. You can customize the page by editing the HTML, CSS, and JavaScript files in the src directory.</p>
