@@ -9,27 +9,27 @@
 <p>This project is a clone of the popular Linktree service, built entirely using HTML, CSS, and JavaScript. You can customize your Biolinks page with your own branding, colors, and links, and easily update it as your online presence evolves.</p>
 
 
-##Features
+## Features
 -Create a customizable landing page for all of your online presence
 -Add links to your social media profiles, websites, and other online content
 -Customize your page with your own branding and colors
 -Easy to update and manage your links
 
 
-##Installation
+## Installation
 To install the project, simply clone the repository to your local machine:
 bash
 Copy code
-'''git clone https://github.com/your-username/biolinks.git'''
+''' git clone https://github.com/your-username/biolinks.git '''
 
-##Usage
+## Usage
 <p>To use the project, open the index.html file in your web browser. You can customize the page by editing the HTML, CSS, and JavaScript files in the src directory.</p>
 
-##Contributing
+## Contributing
 <p>Contributions are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.</p>
 
-##Credit
+## Credit
 <p>BioLinks is inspired by https://github.com/jpinedadev/linktree-clone Big thanks to @jpinedadev</p>
 
-##License
+## License
 This project is licensed under the MIT License.
