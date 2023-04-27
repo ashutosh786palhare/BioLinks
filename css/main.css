@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+.btn-main {
+  padding: 0.5rem 10rem;
+  text-decoration: none;
+  transition: 0.5s;
+  background-color: white;
+  border-radius: 20px;
+  color: #303030;
+  width: 50%;
+  opacity: 90%;
+  font-weight: bold;
+}
+.btn-main:hover {
+  cursor: pointer;
+  color: #0075FF;
+  background-color: #8f8f8f;
+}
+
+.img {
+  width: 8rem;
+}
+
+* {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+body {
+  background-image: url("../assets/bg2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+body #vanta {
+  z-index: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+header {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+header img {
+  border-radius: 100%;
+  border: 2px solid white;
+}
+header h2 {
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+  width: 70%;
+  margin-top: 2rem;
+  opacity: 65%;
+  padding: 0.35rem;
+  font-family: 'Concert One', cursive;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+section a {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  margin-top: 2rem;
+}
+footer span {
+  color: #afafaf;
+  font-weight: bold;
+}
+
+/*Media Querys*/
+@media (min-width: 768px) {
+  body {
+    background-size: cover;
+  }
+  body main header h2 {
+    color: red !important;
+    width: 30%;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */
