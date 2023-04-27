@@ -22,7 +22,7 @@
 ## Installation
 To install the project, Fork This project or simply clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/biolinks.git
+git clone https://github.com/ashutosh786palhare/BioLinks.git
 ```
 
 
